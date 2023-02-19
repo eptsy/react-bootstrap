@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap/static/css/main.e61d1eea.css",
+    "main.js": "/react-bootstrap/static/js/main.f58e3b8c.js",
+    "index.html": "/react-bootstrap/index.html",
+    "main.e61d1eea.css.map": "/react-bootstrap/static/css/main.e61d1eea.css.map",
+    "main.f58e3b8c.js.map": "/react-bootstrap/static/js/main.f58e3b8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e61d1eea.css",
+    "static/js/main.f58e3b8c.js"
+  ]
+}
